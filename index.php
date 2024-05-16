@@ -6,6 +6,9 @@
     <title>Tela de login</title>
 </head>
 <body>
-    
+    <h1>todo list</h1>
+    <?php
+        echo "hello word"
+        ?>;
 </body>
 </html>
