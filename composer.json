@@ -2,7 +2,7 @@
     "name": "admin/aulaphp",
     "autoload": {
         "psr-4": {
-            "Admin\\Aulaphp\\": "src/"
+            "APP\\": "src/"
         }
     },
     "require": {}
