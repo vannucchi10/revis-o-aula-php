@@ -8,7 +8,7 @@
 <body>
     <h1>todo list</h1>
     <?php
-        echo "hello word"
-        ?>;
+       include_once 'src/main.php';
+       ?>
 </body>
 </html>
